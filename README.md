@@ -1,4 +1,5 @@
-# Memory-Organisation
+# COMPUTER ARCHITECTURE
+MEMORIES AND ADDERS
 
 
 yo bro what's up?? :)
